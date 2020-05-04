@@ -6,8 +6,8 @@ export default class App extends React.Component{
         const message = 'Hello React'; 
          return (
              <div className='App'>
+                 {/* }<li>{message}</li>*/}
                  <FoodList/>
-
              </div>
             
          );

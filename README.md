@@ -176,4 +176,6 @@ $ npm start
 localhost:9999 접근
 
 
+* 패키지 관련 오류일때 : node_mduels 파일 삭제 후 $npm install을 한다.
+
 <pre>

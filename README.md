@@ -1,7 +1,7 @@
 ## React Practices
 
 <pre>
-1) 기본 개념[project-ex07
+1) 기본 개념[project-ex07]
 	1-1) 개발 환경 설정 (Webpack, Babel)
 
 	1-2) 2가지 개념 : 속성(property), 상태(state) **
@@ -31,7 +31,7 @@
 
 	4-3) 속성 Validation
 
-	4-4) 상태(stateful) 컴포넌트 vs Pure Component [순수 (상태가 없는 컴포넌트) ] : 컴포넌트 작성/중첩
+	4-4) 상태(stateful) 컴포넌트 vs Pure Component [순수 (상태가 없는 컴포넌트) ] : 컴포넌트 작성/중첩 [kanban]
 
 	4-5) 데이터 흐름(개념) & 컴포넌트 통신(부모 자식, callback)
 

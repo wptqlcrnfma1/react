@@ -6,10 +6,10 @@ module.exports = {
         filename: 'bundle.js'
     },
     module: {
-        rules: [{    
+        rules: [{
             test: /\.js$/,
-            exclude: /node_moduels/, 
-            loader: 'babel-loader',
+            exclude: /node_modules/,
+            loader: 'babel-loader'
         }]
     },
     devServer: {

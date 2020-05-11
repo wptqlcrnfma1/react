@@ -1,4 +1,5 @@
-## 내용 요약
+## React 기본 개념
+
 <pre>
 [project-ex01]
 ES6 for React
@@ -76,6 +77,8 @@ localhost:9999 접근
 
 
 ================================
+
+
 [project-ex06]
 1~5 까지는 project-ex05와 동일
 
@@ -176,6 +179,12 @@ $ npm start
 localhost:9999 접근
 
 
-* 패키지 관련 오류일때 : node_mduels 파일 삭제 후 $npm install을 한다.
+* 패키지 관련 오류 or 프로젝트 복사
+node_moduels 파일 삭제 후 $cp -r [복사대상 파일이름] [새로만들 파일이름] 이후
+$npm install하여 node_moduels
+
+
+================================
+[project-ex08] Inline CSS
 
 <pre>

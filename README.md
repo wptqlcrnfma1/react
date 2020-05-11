@@ -1,24 +1,6 @@
 ## React Practices
 
 <pre>
-2020-05-06 react
-
-JSX -> ReactDOM API
-
-<App /> 
-
-ReactDOM.createElement
-map, filter, spread ...
-document.createElement(,,,,)
-
-webpack
-babel core
-babel preset react
-babel preset env
-
-ㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡ
-
-React
 1) 기본 개념[project-ex07
 	1-1) 개발 환경 설정 (Webpack, Babel)
 
